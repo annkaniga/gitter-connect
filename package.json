@@ -1,0 +1,22 @@
+{
+  "name": "gitter-connect",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chompoo500ml/gitter-connect.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chompoo500ml/gitter-connect/issues"
+  },
+  "homepage": "https://github.com/chompoo500ml/gitter-connect#readme",
+  "dependencies": {
+    "firebase-tools": "^3.18.2"
+  }
+}
